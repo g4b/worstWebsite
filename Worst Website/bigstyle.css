@@ -1,0 +1,70 @@
+a {
+    border: 3px dotted #a3006e;
+    color: #07aa73;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 15px;
+    font-weight: bold;
+    margin: 3px;
+}
+
+.alby {
+    width: 600px;
+    height: 600px;
+    position: relative;
+    top: 10px;
+    left: 40px;
+    margin: 4px;
+    padding: 6px;
+}
+
+#alby1, #alby2 {
+    display: inline;
+    position: absolute;
+    top: 70px;
+    left: 70px;
+    filter: hue-rotate(90);
+}
+
+.babywally, #broissant, #f, #peppa {
+    display: block;
+    float: right;
+    border: 4px dashed darkblue;
+}
+
+#home {
+    background-color: #6700fa;
+}
+
+h1 {
+    padding: 10px;
+    position: absolute;
+    top: 50px;
+    right: 50px;
+}
+
+#marketz {
+    float: left;
+}
+
+#page1 {
+    background-color: salmon;
+}
+
+#page2 {
+    background-color: olivedrab;
+}
+
+#peppa {
+    filter: hue-rotate(68);
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+
+.what {
+    padding: 7px;
+    float: left;
+    position: relative;
+    top: 20px;
+    left: 1px;
+}
